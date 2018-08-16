@@ -1,0 +1,92 @@
+{
+    "GameDataObjects": [
+        {
+            "$type": "Game.GameData.EquippableGameData, Assembly-CSharp",
+            "DebugName": "Padded_Armor_U_Gloom_Masters_Coat",
+            "ID": "0e647d9e-a181-11e8-98d0-529269fb1459",
+            "Components": [
+                {
+                    "$type": "Game.GameData.ItemComponent, Assembly-CSharp",
+                    "DisplayName": 12650,
+                    "DescriptionText": 12651,
+                    "FilterType": "Armor",
+                    "InventoryAudioEventListID": "50b61346-2a8e-4595-a76f-85c497adab02",
+                    "IsQuestItem": "false",
+                    "IsIngredient": "false",
+                    "IsCurrency": "false",
+                    "IsAdventuringItem": "false",
+                    "CanSellForFullValue": "false",
+                    "MaxStackSize": 1,
+                    "NeverDropAsLoot": "false",
+                    "CanBePickpocketed": "true",
+                    "IsUnique": "true",
+                    "Value": 200,
+                    "IconTextureSmall": "gui/icons/items/armor/padded/padded_armor_gipon_s.png",
+                    "IconTextureLarge": "gui/icons/items/armor/padded/padded_armor_gipon_l.png",
+                    "PencilSketchTexture": "",
+                    "InspectOnUseButton": [],
+                    "IsPlaceholder": "false"
+                },
+                {
+                    "$type": "Game.GameData.EquippableComponent, Assembly-CSharp",
+                    "EquipmentType": "None",
+                    "EquipmentSlot": "Armor",
+                    "AppearancePiece": {
+                        "ModelVisualDataPath": "prefabs/items/appearance/body/pa/a_pa01_v02.asset"
+                    },
+                    "ItemModsIDs": [
+                        "24f8907f-059f-493c-a000-59b3abdb3bf9",
+                        "2b419b01-8260-44f1-a435-a1740b9dbd12",
+                        "834b88ad-9d25-4432-a0f9-fbce449a2368",
+                        "2ed715b9-c841-4c0c-bd23-4946fb638cc6",
+                        "ae5f2072-b735-4d2c-a727-55baca3864e9",
+                        "89aa8929-5728-4e11-ad39-71c9aa20ffd9",
+                        "9794320b-1428-4fb3-be90-4ca19b80d2f4",
+                        "7185f7df-08a7-40e9-80fb-022584845a3f"
+                    ],
+                    "OnEquipVisualEffects": [],
+                    "RestrictedToClassIDs": [],
+                    "RestrictedToPlayer": "false",
+                    "EquipConditionals": {
+                        "Operator": 0,
+                        "Components": []
+                    },
+                    "ProficientAbilityID": "00000000-0000-0000-0000-000000000000",
+                    "CannotUnequip": "false",
+                    "ItemRendererPrefab": "",
+                    "ItemModel": "",
+                    "AnimationController": "",
+                    "PaperdollOverrideRenderer": "",
+                    "AttackSummonID": "00000000-0000-0000-0000-000000000000",
+                    "CannotSheathe": "false",
+                    "PropVisualEffects": []
+                },
+                {
+                    "$type": "Game.GameData.ArmorComponent, Assembly-CSharp",
+                    "ArmorRating": 5,
+                    "SpeedFactor": 0.833,
+                    "ArmorCategory": "Light",
+                    "ArmorMaterial": "Padded",
+                    "LevelScaling": {
+                        "BaseLevel": 1,
+                        "LevelIncrement": 1,
+                        "MaxLevel": 0,
+                        "ArmorRatingAdjustment": 0
+                    },
+                    "OverridePierceRating": 3,
+                    "OverrideSlashRating": -1,
+                    "OverrideCrushRating": -1,
+                    "OverrideBurnRating": 3,
+                    "OverrideFreezeRating": -1,
+                    "OverrideShockRating": -1,
+                    "OverrideCorrodeRating": -1,
+                    "ImmunityPierce": "false",
+                    "ImmunitySlash": "false",
+                    "ImmunityCrush": "false",
+                    "ImmunityBurn": "false",
+                    "ImmunityFreeze": "false",
+                    "ImmunityShock": "false",
+                    "ImmunityCorrode": "false"
+                }
+            ]
+        }

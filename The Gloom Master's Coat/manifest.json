@@ -1,0 +1,14 @@
+{
+    "Title": {
+        "en": "The Gloom Master's Coat"
+    },
+    "Description": {
+        "en": "Adds a new item for Holy Slayer Bleak Walkers."
+    },
+    "Author": "GaiusMartius",
+    "ModVersion": "1.0",
+    "SupportedGameVersion": {
+        "Min": "1.1.0",
+        "Max": "2.0.0"
+    }
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <Entries>
+    <Entry>
+      <ID>12650</ID>
+      <DefaultText>The Gloom Master's Coat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12651</ID>
+      <DefaultText>This padded coat was given to you by Uldar The Black, during your time spent with the Bleak Wlakers in Eir Glanfath. Custom tailored for an experineced marksman, and enfused with your soul essence,this coat hastens darkness upon your enemies.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>  
+</StringTableFile>
